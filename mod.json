@@ -1,0 +1,14 @@
+{
+  "name": "PBZHitFeel - Hit Feel Overhaul",
+  "folder": "phantombladezero_hitfeel",
+  "author": "Kintaro",
+  "version": "1.2",
+  "description": "Adds weight to every hit: enemy-only hit stop, rim flash, camera shakes, slash effects, rumble and sound. Based on PBZHitFeel by MoonlightSakura (MIT).",
+  "kind": "ue4ss",
+  "game": "phantombladezero",
+  "gameFolder": "PBZ",
+  "win64Path": "platform\\steam",
+  "gameVersion": "CL-302256_JKS-17280",
+  "engine": "UE5_7",
+  "ue4ss": "v4.0.0"
+}

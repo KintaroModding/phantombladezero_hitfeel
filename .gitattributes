@@ -1,0 +1,14 @@
+* text=auto eol=lf
+*.uasset binary
+*.uexp binary
+*.pak binary
+*.utoc binary
+*.ucas binary
+*.locres binary
+# Settings files that players edit by hand (pakfile mods): Windows line ends
+loose/*.txt text eol=crlf
+# The mod's files keep their bytes as PBZHitFeel 0.7.3 has them (its Lua files are LF, its READMEs, logs\README.txt
+# and hf_lang.lua CRLF): no line-end conversion, so a checkout gives exactly the files of the commit
+src/** -text
+*.png binary
+*.webp binary

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "PBZHitFeel - Hit Feel Overhaul",
+  "summary": "Adds weight to every hit: enemy-only hit stop, rim flash, camera shakes, slash effects, rumble and sound. Based on PBZHitFeel by MoonlightSakura.",
+  "games": ["phantom-blade-zero"],
+  "tags": ["gameplay", "effects", "camera"],
+  "cover": "docs/cover.webp",
+  "requires": ["UE4SS (tested with v4.0.0)"],
+  "gameVersions": ["Steam build 26367565"]
+}
